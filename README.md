@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @W0ckst4r
-- 👀 I’m interested in ... HTML, JAVASCRIPT, C++ and other programming languages
-- 🌱 I’m currently learning ...To create my own websites 
+- 👀 I’m interested in ... Learning how to code
+- 🌱 I’m currently learning ... A handful of programming languages
 - 💞️ I’m looking to collaborate on ... the front end developing of large enterprises
 - 📫 How to reach me ...joshogedegbe09@gmail.com
 - 😄 Pronouns: ...He/Him
