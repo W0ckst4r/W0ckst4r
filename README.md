@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @W0ckst4r
-- 👀 I’m interested in ... HTNL, JAVASCRIPT, C++ and other programming languages
+- 👀 I’m interested in ... HTML, JAVASCRIPT, C++ and other programming languages
 - 🌱 I’m currently learning ...To create my own websites 
 - 💞️ I’m looking to collaborate on ... the front end developing of large enterprises
 - 📫 How to reach me ...joshogedegbe09@gmail.com
